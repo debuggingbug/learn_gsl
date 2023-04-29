@@ -1,3 +1,6 @@
+[gsl]: https://github.com/microsoft/GSL
+[ccg]: https://github.com/UMU618/CppCoreGuidelines-zh-CN
+
 # Learn Guidelines Support Library
 
 [Guidelines Support Library][gsl] 是 [C++ 核心指南][ccg] 的配套库。
@@ -36,6 +39,4 @@
 
 - [【GSL 系列 3】为什么需要 gsl::owner？](https://blog.umu618.com/2023/04/22/umutech-gsl-3-why-owner/)
 
----
-[gsl]: https://github.com/microsoft/GSL
-[ccg]: https://github.com/UMU618/CppCoreGuidelines-zh-CN
+- [【GSL 系列 4】为什么需要 gsl::not_null？](https://blog.umu618.com/2023/04/29/umutech-gsl-4-why-not_null/)
